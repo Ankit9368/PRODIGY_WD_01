@@ -1,0 +1,100 @@
+@media screen and (max-width: 916px) {
+  .nav {
+    flex-direction: column;
+    align-items: center;
+    padding: 12px;
+  }
+
+  .box {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .box a {
+    display: block;
+    padding: 10px 0;
+  }
+
+  .hero-main {
+    background-position: center;
+  }
+
+  .heading {
+    font-size: 48px;
+  }
+
+  .btn {
+    bottom: 122px;
+  }
+
+  .wel h1 {
+    font-size: 34px;
+    margin-bottom: 6px;
+  }
+
+  .wel-cont {
+    font-size: 18px;
+    margin-bottom: 16px;
+  }
+
+  .wel-quote {
+    font-size: 18px;
+  }
+
+  .comp1 .header {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+
+  .comp1 p {
+    font-size: 18px;
+  }
+
+  .footer-content h3 {
+    font-size: 24px;
+  }
+
+  .footer-content p {
+    font-size: 18px;
+  }
+
+  .footer-links ul {
+    margin: 16px 0;
+    gap: 24px;
+    font-size: 16px;
+  }
+
+  .footer-box img {
+    width: 26px;
+  }
+}
+
+@media screen and (max-width: 525px) {
+  .logo {
+    font-size: 24px;
+  }
+
+  .box{
+    gap: 56px;
+  }
+
+  .box a {
+    font-size: 19px;
+  }
+
+  .heading {
+    font-size: 44px;
+  }
+
+  .wel h1 {
+    font-size: 26px;
+  }
+
+  .comp1 .header {
+    font-size: 28px;
+  }
+
+  .comp1 p {
+    font-size: 16px;
+  }
+}
